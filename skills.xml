@@ -1,0 +1,18 @@
+<skills>
+	<hard>
+		<one>Technical skills</one>
+		<two>Computer skills</two>
+		<three>Microsoft Office skills</three>
+		<four>Analytical skills</four>
+		<fif>Marketing skills</fif>
+	</hard>
+
+	<soft>
+		<one>Communication</one>
+		<two>Adaptability</two>
+		<three>Problem-solving</three>
+		<four>Teamwork</four>
+		<fif>Creativity</fif>
+	</soft>
+
+</skills>
